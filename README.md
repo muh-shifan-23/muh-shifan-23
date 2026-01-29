@@ -24,7 +24,12 @@
 - Cryptography basics (AES, DES, RSA)
 - Server Administration
 - Bash (basic)
-- 
+
+ ## 📘 Learning Platforms
+- TryHackMe
+- Hack The Box
+- OverTheWire
+- LetsDefend
 
 <!--
 **muh-shifan-23/muh-shifan-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
