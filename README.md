@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Shifan 
+### 👋 Hello, I'm Shifan 
 
 🎓 Master's student in Cybersecurity  
 🔍 Interested in:
@@ -14,6 +14,18 @@
 - Security labs and practical projects
 
 🚀 Actively building skills to start a career in Cybersecurity & SOC environments.
+
+
+## 🛠️ Skills
+- Linux
+- SIEM: Splunk, Wazuh
+- Log Analysis
+- Web & Database Security
+- Cryptography basics (AES, DES, RSA)
+- Server Administration
+- Bash (basic)
+- 
+
 <!--
 **muh-shifan-23/muh-shifan-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
